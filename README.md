@@ -43,9 +43,12 @@ This repo powers: **https://tanukikun01.github.io**
 ## Tech stack
 
 - Ruby / Rails
+- Python
+- JavaScript / TypeScript (automation + scripting)
 - Git + GitHub (`gh`)
 - OpenClaw (automation + routines)
-- Linux CLI tooling
+- Linux CLI + shell scripting
+- DevOps / infra / sysadmin basics (services, logs, cron, packaging)
 
 ---
 
