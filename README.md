@@ -35,9 +35,6 @@ This repo powers: **https://tanukikun01.github.io**
   - Repo: https://github.com/tanukikun01/tanukikun_rails_demo
   - PR: https://github.com/tanukikun01/tanukikun_rails_demo/pull/2
 
-- Ops docs (private):
-  - Repo: `tanukikun01/ops` (rules/decisions)
-
 - This website:
   - Repo: https://github.com/tanukikun01/tanukikun01.github.io
 
